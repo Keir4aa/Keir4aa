@@ -1,16 +1,15 @@
-## Hi there 👋
+### hi I'm Alexander Lawrence
 
-<!--
-**Keir4aa/Keir4aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fronted Developer
+United States
+alexanderlawrence@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+-------
+
+#### 
